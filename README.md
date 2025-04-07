@@ -10,10 +10,7 @@ Watch the video demonstration here:
 ✨ Features
 ✅ List all active GameObjects in the current scene  
 ✅ Search GameObjects by name (live filter)  
-✅ Filter GameObjects by component:
-- MeshRenderer
-- Collider
-- Rigidbody
+✅ Filter GameObjects by component
 ✅ Toggle GameObject active state from the list  
 ✅ Multi-selection support  
 ✅ Edit transform (position, rotation, scale)  
